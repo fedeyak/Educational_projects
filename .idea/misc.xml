@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/AdvancedOOPFeatures/homework_1/pom.xml" />
+        <option value="$PROJECT_DIR$/AdvancedOOPFeatures/homework_2/Airport/pom.xml" />
+        <option value="$PROJECT_DIR$/AdvancedOOPFeatures/homework_2/Employees/pom.xml" />
+        <option value="$PROJECT_DIR$/ExceptionsDebuggingAndTesting/homework_1/ConsoleCustomerList/pom.xml" />
+        <option value="$PROJECT_DIR$/ExceptionsDebuggingAndTesting/homework_2/SPBMetro/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_X" default="true" project-jdk-name="openjdk-21" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
